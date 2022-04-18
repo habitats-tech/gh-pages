@@ -3,7 +3,7 @@
     <title>HST</title>
     <link href="https://habitats-tech.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://habitats-tech.github.io/gh-pages" />
-    <updated>2022-04-18T18:45:45+04:00</updated>
+    <updated>2022-04-18T21:24:23+04:00</updated>
     <author>
         <name>Habitats Tech</name>
     </author>
@@ -38,11 +38,12 @@
         <link href="https://habitats-tech.github.io/gh-pages/my-1st-post.html"/>
         <id>https://habitats-tech.github.io/gh-pages/my-1st-post.html</id>
 
-        <updated>2022-04-18T18:45:45+04:00</updated>
+        <updated>2022-04-18T21:24:23+04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/space-hole.jpg" alt="" />
                     <p>😀 whoo hoo my 1st pic</p>
-<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 384w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 600w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1200w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1600w"  alt="" width="489" height="275"></figure>
+<p> </p>
 <p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
 <p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
 
@@ -50,8 +51,9 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/space-hole.jpg" alt="" />
                 <p>😀 whoo hoo my 1st pic</p>
-<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 384w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 600w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1200w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1600w"  alt="" width="489" height="275"></figure>
+<p> </p>
 <p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
 <p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
 
