@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://habitats-tech.github.io/gh-pages/sitemap.xml
