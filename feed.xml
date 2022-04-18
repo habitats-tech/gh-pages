@@ -20,7 +20,7 @@
         <updated>2022-04-18T18:44:45+04:00</updated>
             <summary>
                 <![CDATA[
-                    Before you start make certain you meet the minimum [installation requirements](https://www.proxmox.com/en/proxmox-ve/requirements) [Download](https://www.proxmox.com/en/downloads) the latest ISO (official link) - e.g. Proxmox VE 7.1 ISO Installer We will use Ventoy for installation. Copy the PVE ISO on the Ventoy USB drive (where you keep all ISO images).
+                    Before you start make certain you meet the minimum [installation requirements](https://www.proxmox.com/en/proxmox-ve/requirements) [Download](https://www.proxmox.com/en/downloads) the latest ISO (official link) - e.g. Proxmox&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -42,7 +42,7 @@
             <summary>
                 <![CDATA[
                     <p>😀 whoo hoo my 1st pic</p>
-<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 300w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 480w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1024w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1360w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-2xl.png 1600w"  alt="" width="489" height="275"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 384w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 600w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1200w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1600w"  alt="" width="489" height="275"></figure>
 <p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
 <p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
 
@@ -51,7 +51,7 @@
         <content type="html">
             <![CDATA[
                 <p>😀 whoo hoo my 1st pic</p>
-<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 300w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 480w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1024w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1360w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-2xl.png 1600w"  alt="" width="489" height="275"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://habitats-tech.github.io/gh-pages/media/posts/1/Screenshot-2022-02-09-220017.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xs.png 384w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-sm.png 600w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-md.png 768w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-lg.png 1200w ,https://habitats-tech.github.io/gh-pages/media/posts/1/responsive/Screenshot-2022-02-09-220017-xl.png 1600w"  alt="" width="489" height="275"></figure>
 <p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
 <p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
 
