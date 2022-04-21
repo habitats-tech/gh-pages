@@ -27,17 +27,17 @@
         {
             "id": "https://habitats-tech.github.io/gh-pages/my-1st-post.html",
             "url": "https://habitats-tech.github.io/gh-pages/my-1st-post.html",
-            "title": "Post 0",
-            "summary": "<p>😀 whoo hoo my 1st pic</p>\n<p> </p>\n<p><span style=\"color: #e03e2d;\">jbhkhjjkhj</span></p>\n<p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>\n",
-            "content_html": "<p>😀 whoo hoo my 1st pic</p>\n<p> </p>\n<p><span style=\"color: #e03e2d;\">jbhkhjjkhj</span></p>\n<p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>\n\n<p> </p>",
-            "image": "https://habitats-tech.github.io/gh-pages/media/posts/1/space-hole.jpg",
+            "title": "Vacancies",
+            "summary": "At HST we are a technology driven tribe, seeking like minded individuals to join us. We welcome new members to&hellip;",
+            "content_html": "<p>At HST we are a technology driven tribe, seeking like minded individuals to join us.</p>\n<p>We welcome new members to our tribe based on two fundumental principles:</p>\n<p class=\"msg msg--highlight  msg--success\"><strong>Aptitude</strong> and <strong>Attitude</strong></p>\n<p>If you believe you shine at both please get in touch - hr(at)habitats(dot)tech - and let us know what you feel passionate about in life.</p>\n<p>At present we seek a number of individuals who either have experience or are interested in the following disciplines:</p>\n<h4>Software Engineering</h4>\n<p>  - Web programming - HTML, CSS, ECMAScript / Python programming</p>\n<h4>Software Infrastructure Engineering</h4>\n<p>  - Virtualisation - Frameworks - Platforms - Operating Systems (Linux - Windows)</p>\n<h4>Hardware Infrastructure Engineering</h4>\n<p>  - Compute - Network - Storage - Operating Systems (Linux - Windows)</p>\n<p>We are an equal opportunities tribe and require good command of English and ability to communicate thoughts.</p>",
+            "image": "https://habitats-tech.github.io/gh-pages/media/posts/1/DEVOPS.webp",
             "author": {
                 "name": "Habitats Tech"
             },
             "tags": [
             ],
             "date_published": "2022-04-17T21:20:13+04:00",
-            "date_modified": "2022-04-18T21:24:23+04:00"
+            "date_modified": "2022-04-21T10:32:52+04:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Habitats Smart Technologies</title>
     <link href="https://habitats-tech.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://habitats-tech.github.io/gh-pages" />
-    <updated>2022-04-18T21:24:23+04:00</updated>
+    <updated>2022-04-21T10:32:52+04:00</updated>
     <author>
         <name>Habitats Tech</name>
     </author>
@@ -31,33 +31,35 @@
         </content>
     </entry>
     <entry>
-        <title>Post 0</title>
+        <title>Vacancies</title>
         <author>
             <name>Habitats Tech</name>
         </author>
         <link href="https://habitats-tech.github.io/gh-pages/my-1st-post.html"/>
         <id>https://habitats-tech.github.io/gh-pages/my-1st-post.html</id>
 
-        <updated>2022-04-18T21:24:23+04:00</updated>
+        <updated>2022-04-21T10:32:52+04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/space-hole.jpg" alt="" />
-                    <p>😀 whoo hoo my 1st pic</p>
-<p> </p>
-<p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
-<p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
-
+                        <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/DEVOPS.webp" alt="" />
+                    At HST we are a technology driven tribe, seeking like minded individuals to join us. We welcome new members to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/space-hole.jpg" alt="" />
-                <p>😀 whoo hoo my 1st pic</p>
-<p> </p>
-<p><span style="color: #e03e2d;">jbhkhjjkhj</span></p>
-<p>jhhouhoiui  iio oioi oi oih ohohohoihoioioioiij</p>
-
-<p> </p>
+                    <img src="https://habitats-tech.github.io/gh-pages/media/posts/1/DEVOPS.webp" alt="" />
+                <p>At HST we are a technology driven tribe, seeking like minded individuals to join us.</p>
+<p>We welcome new members to our tribe based on two fundumental principles:</p>
+<p class="msg msg--highlight  msg--success"><strong>Aptitude</strong> and <strong>Attitude</strong></p>
+<p>If you believe you shine at both please get in touch - hr(at)habitats(dot)tech - and let us know what you feel passionate about in life.</p>
+<p>At present we seek a number of individuals who either have experience or are interested in the following disciplines:</p>
+<h4>Software Engineering</h4>
+<p>  - Web programming - HTML, CSS, ECMAScript / Python programming</p>
+<h4>Software Infrastructure Engineering</h4>
+<p>  - Virtualisation - Frameworks - Platforms - Operating Systems (Linux - Windows)</p>
+<h4>Hardware Infrastructure Engineering</h4>
+<p>  - Compute - Network - Storage - Operating Systems (Linux - Windows)</p>
+<p>We are an equal opportunities tribe and require good command of English and ability to communicate thoughts.</p>
             ]]>
         </content>
     </entry>
